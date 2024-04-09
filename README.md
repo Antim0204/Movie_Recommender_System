@@ -45,4 +45,4 @@ If you'd like to contribute to the project, follow these steps:
 
 For any inquiries or feedback, please contact 2021ume0204@iitjammu.ac.in
 
-Happy movie watching!
+
